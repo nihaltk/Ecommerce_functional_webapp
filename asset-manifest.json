@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ecomerce_functional_webapp/static/css/main.da3f0e27.css",
+    "main.js": "/Ecomerce_functional_webapp/static/js/main.5d189a49.js",
+    "static/media/crown.svg": "/Ecomerce_functional_webapp/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/Ecomerce_functional_webapp/index.html",
+    "main.da3f0e27.css.map": "/Ecomerce_functional_webapp/static/css/main.da3f0e27.css.map",
+    "main.5d189a49.js.map": "/Ecomerce_functional_webapp/static/js/main.5d189a49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3f0e27.css",
+    "static/js/main.5d189a49.js"
+  ]
+}
